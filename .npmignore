@@ -1,0 +1,7 @@
+.editorconfig
+.jscsrc
+.jshintrc
+.nvmrc
+.jshintignore
+.travis.yml
+.nyc_output

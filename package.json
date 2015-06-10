@@ -1,0 +1,37 @@
+{
+  "name": "bootenv-node",
+  "description": "NodeJS utility methods to make using the environment properties more pleasant",
+  "version": "1.0.0",
+  "author": "Bootenv",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bootenv/bootenv-node.git"
+  },
+  "engines": {
+    "iojs": "2.1.x",
+    "npm": "2.11.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jscs . && jshint .",
+    "test": "nyc tap -c ./test.js",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "outdated": "npm outdated --depth=0"
+  },
+  "keywords": [
+    "bootenv",
+    "environment",
+    "management"
+  ],
+  "dependencies": {
+    "debug": "2.x"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0",
+    "nyc": "^2.3.0",
+    "tap": "^1.2.0"
+  }
+}
