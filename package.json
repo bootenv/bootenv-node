@@ -2,11 +2,43 @@
   "name": "bootenv-node",
   "description": "NodeJS utility methods to make using the environment properties more pleasant",
   "version": "1.0.0",
-  "author": "Bootenv",
+  "author": {
+    "name": ">bootenv",
+    "email": "dev@bootenv.org"
+  },
+  "contributors": [
+    {
+      "name": "Andrés Amado",
+      "email": "andres@bootenv.org"
+    },
+    {
+      "name": "Cesar Izurieta",
+      "email": "cesar@bootenv.org"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Andrés Amado",
+      "email": "andres@bootenv.org"
+    },
+    {
+      "name": "Cesar Izurieta",
+      "email": "cesar@bootenv.org"
+    }
+  ],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:bootenv/bootenv-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bootenv/bootenv-node/issues"
+  },
+  "homepage": "https://github.com/bootenv/bootenv-node",
+  "_id": "bootenv-node@1.0.0",
+  "_npmUser": {
+    "name": "bootenv",
+    "email": "dev@bootenv.org"
   },
   "engines": {
     "iojs": "2.1.x",
@@ -25,7 +57,9 @@
     "management"
   ],
   "dependencies": {
-    "debug": "2.x"
+    "debug": "2.x",
+    "guava-optional": "^2.0.2",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
