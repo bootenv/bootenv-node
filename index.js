@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = require('./environment');
+module.exports = {
+  environment: require('./environment')
+};

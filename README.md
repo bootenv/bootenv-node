@@ -60,7 +60,7 @@ The _last_ method returns a Javascript [Optional](https://code.google.com/p/guav
 Please, take a look in the code below:
 
 ```javascript
-var environment = require('bootenv');
+var environment = require('bootenv').environment;
 
 var SEND_EMAIL_PROPERTY = 'SEND_EMAIL',
     EMAIL_ADDRESS_PROPERTY = 'EMAIL_ADDRESS',
