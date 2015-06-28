@@ -6,7 +6,6 @@
 [![engine](https://img.shields.io/badge/iojs-v2.1.0-yellow.svg)]()
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 [![Build Status](https://travis-ci.org/bootenv/bootenv-node.svg?branch=master)](https://travis-ci.org/bootenv/bootenv-node)
-[![Coverage Status](https://coveralls.io/repos/bootenv/bootenv-node/badge.svg)](https://coveralls.io/r/bootenv/bootenv-node)
 
 > It’s simple! Node.js utility methods to make using the environment properties more pleasant. `:wq`
 
