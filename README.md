@@ -56,7 +56,7 @@ The _first_ method returns the Environment property value if the value exists (_
 
 The _second_ method returns the Environment property value if the key exists, otherwise returns the default value!
 
-The _last_ method returns a [Optional](https://code.google.com/p/guava-libraries/wiki/UsingAndAvoidingNullExplained) property representation!
+The _last_ method returns a Javascript [Optional](https://code.google.com/p/guava-libraries/wiki/UsingAndAvoidingNullExplained) property representation!
 
 Please, take a look in the code below:
 
