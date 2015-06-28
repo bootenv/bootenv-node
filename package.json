@@ -1,7 +1,7 @@
 {
   "name": "bootenv",
   "description": "NodeJS utility methods to make using the environment properties more pleasant",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": ">bootenv",
     "email": "dev@bootenv.org"
