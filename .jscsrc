@@ -1,20 +1,23 @@
 {
   "preset": "google",
-  "excludeFiles": ["node_modules"],
+  "excludeFiles": [
+    "node_modules",
+    ".nyc_output"
+  ],
   "requireCurlyBraces": [
-     "else",
-     "for",
-     "while",
-     "do",
-     "try",
-     "catch"
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch"
   ],
   "disallowMultipleVarDecl": "exceptUndefined",
   "disallowSpacesInsideObjectBrackets": null,
   "maximumLineLength": {
-     "value": 120,
-     "allowComments": true,
-     "allowRegex": true
+    "value": 120,
+    "allowComments": true,
+    "allowRegex": true
   },
   "validateJSDoc": {
     "checkParamNames": false,
