@@ -47,7 +47,7 @@
   "main": "index.js",
   "scripts": {
     "pretest": "jscs . && jshint .",
-    "test": "nyc tap ./test.js",
+    "test": "tap ./test.js",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "outdated": "npm outdated --depth=0"
   },
