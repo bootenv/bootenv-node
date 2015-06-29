@@ -95,7 +95,8 @@ if(environment.supportsOr(SEND_EMAIL_PROPERTY, false)) {
 
 ## Versions
  
- - 1.0.0 (current)
+ - [1.0.0](https://github.com/bootenv/bootenv-node/releases/tag/1.0.0)
+ - 1.1.0 (current)
 
 ## License
 

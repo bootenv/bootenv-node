@@ -35,7 +35,7 @@
     "url": "https://github.com/bootenv/bootenv-node/issues"
   },
   "homepage": "https://github.com/bootenv/bootenv-node",
-  "_id": "bootenv@1.0.0",
+  "_id": "bootenv@1.1.0",
   "_npmUser": {
     "name": "bootenv",
     "email": "dev@bootenv.org"
