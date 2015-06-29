@@ -2,9 +2,9 @@
 
 [![NPM](https://nodei.co/npm/bootenv.png?compact=true)](https://nodei.co/npm/bootenv/)
 
-[![license](https://img.shields.io/badge/license-Apache_2.0-blue.svg)]()
-[![engine](https://img.shields.io/badge/iojs-v2.1.0-yellow.svg)]()
-[![npm](https://img.shields.io/npm/v/npm.svg)]()
+[![license](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE)
+[![engine](https://img.shields.io/badge/iojs-v2.3.X-yellow.svg)](http://iojs.org)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com)
 [![Build Status](https://travis-ci.org/bootenv/bootenv-node.svg?branch=master)](https://travis-ci.org/bootenv/bootenv-node)
 [![Coverage Status](https://coveralls.io/repos/bootenv/bootenv-node/badge.svg)](https://coveralls.io/r/bootenv/bootenv-node)
 
